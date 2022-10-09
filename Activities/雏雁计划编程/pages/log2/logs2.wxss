@@ -1,0 +1,287 @@
+
+page{
+  background:#87CEEB
+}
+
+.frame{
+  position: absolute;
+  top:10rpx;
+  left: 5rpx;
+  border-style:solid;
+  border-width:2rpx;
+  border-radius: 40rpx;
+  border-color:darkgray;
+}
+.yonghu2{
+  position:absolute;
+  top:73rpx;
+  left:220rpx;
+  color:darkgray;
+}
+.geqian{
+  position:absolute;
+  top:130rpx;
+  left:220rpx;
+  color:black;
+}
+
+.userinfo-avatar {
+  position:absolute;
+  top:37rpx;
+  left:35rpx;
+  width: 150rpx;
+  height: 150rpx;
+  border-radius: 50%;
+}
+
+.userinfo-nickname {
+  position:absolute;
+  top:19rpx;
+  left:220rpx;
+  color: rgb(0, 0, 0);
+}
+
+.usermotto {
+  margin-top: 100rpx;
+}
+.fund{
+  position:absolute;
+  top:0rpx;
+  left:135rpx;
+  color: rgb(0, 0, 0);
+  background-color: transparent;
+
+}
+.intro{
+  position:absolute;
+  left:25rpx;
+  top:350rpx;
+  width: 710rpx;
+}
+/**youla*/
+.btn{
+  position:absolute;
+  top:40rpx;
+  left:10rpx;
+}
+/**活动介绍*/
+.frame2{
+  position: absolute;
+  top:225rpx;
+  left: 5rpx;
+  border-style:solid;
+  border-width:2rpx;
+  border-radius: 40rpx;
+  border-color:rgb(182, 182, 182);
+
+}
+.name{
+  position:absolute;
+  top:250rpx;
+  left:17rpx;
+  font-weight:bold;
+}
+.time{
+  position:absolute;
+  top:260rpx;
+  left:430rpx;
+  color:darkgray;
+  font-size: 25rpx
+}
+/**轮播图*/
+.home-swiper{
+  height: 400rpx
+}
+.slide-image{
+  position:absolute;
+  left:50rpx;
+  width: 650rpx;
+  height: 350rpx
+}
+/**第三个框*/
+.frame3{
+  position: absolute;
+  top:960rpx;
+  left: 5rpx;
+  border-style:solid;
+  border-width:2rpx;
+  border-radius: 40rpx;
+  border-color:darkgray;
+}
+.start{
+  position:absolute;
+  top:980rpx;
+  left:50rpx;
+}
+.starttime{
+  position:absolute;
+  top:1030rpx;
+  left:100rpx;
+  color:#87CEEB;
+  font-weight: bolder;
+}
+.end{
+  position:absolute;
+  top:980rpx;
+  right:280rpx;
+}
+.endtime{
+  position:absolute;
+  top:1030rpx;
+  right:130rpx;
+  color:#87CEEB;
+  font-weight: bolder;
+}
+.time3{
+  position:absolute;
+  top:1130rpx;
+  left:50rpx;
+}
+.timeContainer1{
+  position:absolute;
+  top:1130rpx;
+  left:120rpx;
+}
+.timeContainer2{
+  position:absolute;
+  top:1130rpx;
+  left:360rpx;
+}
+.locate2{
+  position: absolute;
+  top:1220rpx;
+  left:50rpx;
+}
+.locateContainer1{
+  position: absolute;
+  top:1220rpx;
+  left:120rpx;
+}
+.locateContainer2{
+  position: absolute;
+  top:1220rpx;
+  left:270rpx;
+}
+/**分割线*/
+.diveLine{
+ position:absolute;
+ top:1000rpx;
+ left:6rpx;
+}
+.diveLine2{
+ position:absolute;
+ top:1100rpx;
+ left:6rpx;
+}
+.diveLine3{
+ position:absolute;
+ top:1190rpx;
+ left:6rpx;
+}
+.diveLine4{
+ position:absolute;
+ top:950rpx;
+ left:330rpx;
+}
+/**一堆小标签*/
+.titles114{
+  background-color:rgba(253, 204, 212, 0.63);
+  padding-right: 20rpx;
+  padding-left: 25rpx;
+  padding-top: 10rpx;
+  padding-bottom: 15rpx;
+  width: 70rpx;
+  height: 30rpx;
+  color:rgb(247, 137, 155);
+  border-radius: 10rpx;
+  font-size: 30rpx;
+  position:absolute;
+  top:1310rpx;
+  left:200rpx;
+}
+.titles134{
+  background-color:rgba(9, 228, 181, 0.425);
+  padding-right: 20rpx;
+  padding-left: 25rpx;
+  padding-top: 10rpx;
+  padding-bottom: 15rpx;
+  width:70rpx;
+  height: 30rpx;
+  color:rgb(8, 184, 146);
+  border-radius: 10rpx;
+  font-size: 30rpx;
+  position:absolute;
+  top:1310rpx;
+  left:490rpx;
+}
+.titles124{
+  background-color:rgba(255, 214, 153, 0.589);
+  padding-right: 20rpx;
+  padding-left: 25rpx;
+  padding-top: 10rpx;
+  padding-bottom: 15rpx;
+  width:70rpx;
+  height: 30rpx;
+  color:rgba(247, 148, 0, 0.918);
+  border-radius: 10rpx;
+  font-size: 30rpx;
+  position:absolute;
+  top:1310rpx;
+  left:340rpx;
+}
+.titles144{
+  background-color:rgba(146, 223, 253, 0.719);
+  padding-right: 20rpx;
+  padding-left: 25rpx;
+  padding-top: 10rpx;
+  padding-bottom: 15rpx;
+  width:70rpx;
+  height: 30rpx;
+  color:rgb(0, 179, 250);
+  border-radius: 10rpx;
+  font-size: 30rpx;
+  position:absolute;
+  top:1310rpx;
+  left:55rpx;
+}
+
+/**小队成员*/
+.frame4{
+  position: absolute;
+  top:1405rpx;
+  left: 5rpx;
+  border-style:solid;
+  border-width:2rpx;
+  border-radius: 40rpx;
+  border-color:rgb(182, 182, 182);
+}
+.member{
+  position:absolute;
+  top:1420rpx;
+  left:30rpx;
+}
+.jia{
+  position:absolute;
+  top:1460rpx;
+  left:30rpx;
+}
+/**评论区*/
+.frame5{
+  position:absolute;
+  top:1600rpx;
+  left: 5rpx;
+  border-style:solid;
+  border-width:2rpx;
+  border-radius: 40rpx;
+  border-color:darkgray;
+}
+.comment{
+  position:absolute;
+  top:1620rpx;
+  left: 30rpx;
+}
+.diveLine5{
+  position:absolute;
+  top:1590rpx;
+  left: 7rpx;
+}

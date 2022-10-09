@@ -1,0 +1,42 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/notify/notify"
+
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "color": "#626567",
+    "selectedColor": "#2A8CE5",
+    "backgroundColor": "#FBFBFB",
+    "borderStyle": "white",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "活动广场",
+        "iconPath": "picture/huabanfuben.png",
+        "selectedIconPath": "picture/huabanfuben.png"
+      },
+      {
+        "pagePath": "pages/index/index",
+        "text": "发起活动",
+        "iconPath": "picture/huabanfuben1.png",
+        "selectedIconPath": "picture/huabanfuben1.png"
+      },
+      {
+        "pagePath": "pages/notify/notify",
+        "text": "消息盒子",
+        "iconPath": "picture/huaban.png",
+        "selectedIconPath": "picture/huaban.png"
+      }
+    ]
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}

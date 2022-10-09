@@ -1,0 +1,64 @@
+<view class ="search4"> 
+<text>搜索</text>
+<image class="search" style="width:44rpx;height:44rpx;" src = "../../picture/search.png"></image>
+</view>
+<view class="framework">
+  <image class="framework14" style="width:700rpx;height:370rpx;" src="../../picture/fram.png"></image>
+  <text class="title14">一起学习啦!</text>
+  <text class="titles114">学习</text>
+  <text class="titles124">自律</text>
+  <text class="titles134">线下</text>
+  <text class="look1">看一看</text>
+
+<text class="address1">北京市昌平区北京邮电大学图书馆</text>
+<image class="weizhi1" style="width:44rpx;height:44rpx;" src="../../picture/weizhi.png"></image>
+
+<text class="time1">2020.2.15 1:15-2020.2.24 21:16</text>
+<image class="colock1" style="width:55rpx;height:55rpx;" src="../../picture/shijian.png"></image>
+
+<text class="end1">2020.2.24 00:00</text>
+<image class="colock12" style="width:50rpx;height:50rpx;" src="../../picture/shijian2.png"></image>
+
+<text class="people1">3</text>
+<image class="renci1" style="width:50rpx;height:50rpx;" src="../../picture/renci.png"></image>
+
+<image class="framework24" style="width:700rpx;height:370rpx;" src="../../picture/fram.png"></image>
+<text class="title24">一起学习啦!</text>
+<text class="titles214">学习</text>
+<text class="titles224">自律</text>
+<text class="titles234">线下</text>
+<text class="look2">看一看</text>
+
+<text class="address2">北京市昌平区北京邮电大学图书馆</text>
+<image class="weizhi2" style="width:44rpx;height:44rpx;" src="../../picture/weizhi.png"></image>
+
+<text class="time2">2020.2.15 1:15-2020.2.24 21:16</text>
+<image class="colock2" style="width:55rpx;height:55rpx;" src="../../picture/shijian.png"></image>
+
+<text class="end2">2020.2.24 00:00</text>
+<image class="colock22" style="width:50rpx;height:50rpx;" src="../../picture/shijian2.png"></image>
+
+<text class="people2">3</text>
+<image class="renci2" style="width:50rpx;height:50rpx;" src="../../picture/renci.png"></image>
+
+<image class="framework34" style="width:700rpx;height:370rpx;" src="../../picture/fram.png"></image>
+<text class="title34">一起学习啦!</text>
+<text class="titles314">学习</text>
+<text class="titles324">自律</text>
+<text class="titles334">线下</text>
+
+<text class="address3">北京市昌平区北京邮电大学图书馆</text>
+
+<text class="look3">看一看</text>
+
+<image class="weizhi3" style="width:44rpx;height:44rpx;" src="../../picture/weizhi.png"></image>
+
+<text class="time3">2020.2.15 1:15-2020.2.24 21:16</text>
+<image class="colock3" style="width:55rpx;height:55rpx;" src="../../picture/shijian.png"></image>
+
+<text class="end3">2020.2.24 00:00</text>
+<image class="colock32" style="width:50rpx;height:50rpx;" src="../../picture/shijian2.png"></image>
+
+<text class="people3">3</text>
+<image class="renci3" style="width:50rpx;height:50rpx;" src="../../picture/renci.png"></image>
+</view>

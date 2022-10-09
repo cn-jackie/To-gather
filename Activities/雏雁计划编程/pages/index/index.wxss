@@ -1,0 +1,375 @@
+/**index.wxss**/
+.search4{
+   background-color: rgb(228, 228, 228);
+   padding-right: 250rpx;
+   padding-left: 60rpx;
+   padding-top: 5rpx;
+   padding-bottom: 5rpx;
+   border-radius:20rpx;
+   color:rgb(165, 163, 163);  
+   position:absolute;
+   left:15rpx;
+}
+.search{
+  position:absolute;
+  left:15rpx;
+  top:10rpx;
+}
+
+/**第一个框！**/
+.framework14{
+  position: absolute;
+  top:240rpx;
+  left: 30rpx;
+  border-style:solid;
+  border-width:2rpx;
+  border-radius: 15rpx;
+  border-color:cornflowerblue;
+}
+.title14{
+  color:cornflowerblue;
+  position:absolute;
+  top:250rpx;
+  left:70rpx;
+  font-weight:bold;
+}
+.titles114{
+  background-color:pink;
+  padding-right: 20rpx;
+  padding-left: 25rpx;
+  padding-top: 10rpx;
+  padding-bottom: 15rpx;
+  width: 70rpx;
+  height: 30rpx;
+  color: white;
+  border-radius: 10rpx;
+  font-size: 30rpx;
+  position:absolute;
+  top:320rpx;
+  left:55rpx;
+}
+.titles124{
+  background-color:rgba(148, 240, 57, 0.836);
+  padding-right: 20rpx;
+  padding-left: 25rpx;
+  padding-top: 10rpx;
+  padding-bottom: 15rpx;
+  width:70rpx;
+  height: 30rpx;
+  color: white;
+  border-radius: 10rpx;
+  font-size: 30rpx;
+  position:absolute;
+  top:320rpx;
+  left:180rpx;
+}
+.titles134{
+  background-color:rgba(114, 214, 247, 0.918);
+  padding-right: 20rpx;
+  padding-left: 25rpx;
+  padding-top: 10rpx;
+  padding-bottom: 15rpx;
+  width:70rpx;
+  height: 30rpx;
+  color: white;
+  border-radius: 10rpx;
+  font-size: 30rpx;
+  position:absolute;
+  top:320rpx;
+  left:300rpx;
+}
+.look1{
+  background-color:cornflowerblue;
+  padding-right: 25rpx;
+  padding-left: 25rpx;
+  padding-top: 15rpx;
+  padding-bottom: 15rpx;
+  color: white;
+  border-radius: 10rpx;
+  font-size: 30rpx;
+  position:absolute;
+  top:270rpx;
+  left:570rpx;
+}
+.address1{
+  color:rgb(165, 163, 163);
+  position:absolute;
+  top:415rpx;
+  left:100rpx;
+}
+.weizhi1{
+  position:absolute;
+  top:420rpx;
+  left:55rpx;
+}
+.time1{
+  color:rgb(165, 163, 163);
+  position:absolute;
+  top:480rpx;
+  left:100rpx;
+}
+.colock1{
+  position:absolute;
+  top:480rpx;
+  left:48rpx;
+}
+.end1{
+  color:rgb(165, 163, 163);
+  position:absolute;
+  top:550rpx;
+  left:100rpx;
+}
+.colock12{
+  position:absolute;
+  top:550rpx;
+  left:50rpx;
+}
+.people1{
+  position:absolute;
+  left:650rpx;
+  top:550rpx;
+  color:rgb(165, 163, 163);
+}
+.renci1{
+  position:absolute;
+  left:600rpx;
+  top:550rpx;
+}
+/**第二个框！**/
+.framework24{
+  position: absolute;
+  top:630rpx;
+  left: 30rpx;
+  border-style:solid;
+  border-width:2rpx;
+  border-radius: 15rpx;
+  border-color:cornflowerblue;
+}
+.title24{
+  color:cornflowerblue;
+  position:absolute;
+  top:640rpx;
+  left:70rpx;
+  font-weight:bold;
+}
+.titles214{
+  background-color:pink;
+  padding-right: 20rpx;
+  padding-left: 25rpx;
+  padding-top: 10rpx;
+  padding-bottom: 15rpx;
+  width: 70rpx;
+  height: 30rpx;
+  color: white;
+  border-radius: 10rpx;
+  font-size: 30rpx;
+  position:absolute;
+  top:710rpx;
+  left:55rpx;
+}
+.titles224{
+  background-color:rgba(148, 240, 57, 0.836);
+  padding-right: 20rpx;
+  padding-left: 25rpx;
+  padding-top: 10rpx;
+  padding-bottom: 15rpx;
+  width:70rpx;
+  height: 30rpx;
+  color: white;
+  border-radius: 10rpx;
+  font-size: 30rpx;
+  position:absolute;
+  top:710rpx;
+  left:180rpx;
+}
+.titles234{
+  background-color:rgba(114, 214, 247, 0.918);
+  padding-right: 20rpx;
+  padding-left: 25rpx;
+  padding-top: 10rpx;
+  padding-bottom: 15rpx;
+  width:70rpx;
+  height: 30rpx;
+  color: white;
+  border-radius: 10rpx;
+  font-size: 30rpx;
+  position:absolute;
+  top:710rpx;
+  left:300rpx;
+}
+.look2{
+  background-color:cornflowerblue;
+  padding-right: 25rpx;
+  padding-left: 25rpx;
+  padding-top: 15rpx;
+  padding-bottom: 15rpx;
+  color: white;
+  border-radius: 10rpx;
+  font-size: 30rpx;
+  position:absolute;
+  top:660rpx;
+  left:570rpx;
+}
+.address2{
+  color:rgb(165, 163, 163);
+  position:absolute;
+  top:800rpx;
+  left:100rpx;
+}
+.weizhi2{
+  position:absolute;
+  top:800rpx;
+  left:55rpx;
+}
+.time2{
+  color:rgb(165, 163, 163);
+  position:absolute;
+  top:869rpx;
+  left:100rpx;
+}
+.colock2{
+  position:absolute;
+  top:869rpx;
+  left:48rpx;
+}
+.end2{
+  color:rgb(165, 163, 163);
+  position:absolute;
+  top:940rpx;
+  left:100rpx;
+}
+.colock22{
+  position:absolute;
+  top:940rpx;
+  left:50rpx;
+}
+.people2{
+  position:absolute;
+  left:650rpx;
+  top:940rpx;
+  color:rgb(165, 163, 163);
+}
+.renci2{
+  position:absolute;
+  left:600rpx;
+  top:940rpx;
+}
+/**第三个框！**/
+.framework34{
+  position: absolute;
+  top:1020rpx;
+  left: 30rpx;
+  border-style:solid;
+  border-width:2rpx;
+  border-radius: 15rpx;
+  border-color:cornflowerblue;
+}
+.title34{
+  color:cornflowerblue;
+  position:absolute;
+  top:1040rpx;
+  left:70rpx;
+  font-weight:bold;
+}
+.titles314{
+  background-color:pink;
+  padding-right: 20rpx;
+  padding-left: 25rpx;
+  padding-top: 10rpx;
+  padding-bottom: 15rpx;
+  width: 70rpx;
+  height: 30rpx;
+  color: white;
+  border-radius: 10rpx;
+  font-size: 30rpx;
+  position:absolute;
+  top:1100rpx;
+  left:55rpx;
+}
+.titles324{
+  background-color:rgba(148, 240, 57, 0.836);
+  padding-right: 20rpx;
+  padding-left: 25rpx;
+  padding-top: 10rpx;
+  padding-bottom: 15rpx;
+  width:70rpx;
+  height: 30rpx;
+  color: white;
+  border-radius: 10rpx;
+  font-size: 30rpx;
+  position:absolute;
+  top:1100rpx;
+  left:180rpx;
+}
+.titles334{
+  background-color:rgba(114, 214, 247, 0.918);
+  padding-right: 20rpx;
+  padding-left: 25rpx;
+  padding-top: 10rpx;
+  padding-bottom: 15rpx;
+  width:70rpx;
+  height: 30rpx;
+  color: white;
+  border-radius: 10rpx;
+  font-size: 30rpx;
+  position:absolute;
+  top:1100rpx;
+  left:300rpx;
+}
+.look3{
+  background-color:cornflowerblue;
+  padding-right: 25rpx;
+  padding-left: 25rpx;
+  padding-top: 15rpx;
+  padding-bottom: 15rpx;
+  color: white;
+  border-radius: 10rpx;
+  font-size: 30rpx;
+  position:absolute;
+  top:1040rpx;
+  left:570rpx;
+}
+.address3{
+  color:rgb(165, 163, 163);
+  position:absolute;
+  top:1190rpx;
+  left:100rpx;
+}
+.weizhi3{
+  position:absolute;
+  top:1190rpx;
+  left:55rpx;
+}
+.time3{
+  color:rgb(165, 163, 163);
+  position:absolute;
+  top:1260rpx;
+  left:100rpx;
+}
+.colock3{
+  position:absolute;
+  top:1260rpx;
+  left:48rpx;
+}
+.end3{
+  color:rgb(165, 163, 163);
+  position:absolute;
+  top:1320rpx;
+  left:100rpx;
+}
+.colock32{
+  position:absolute;
+  top:1320rpx;
+  left:50rpx;
+}
+.people3{
+  position:absolute;
+  left:650rpx;
+  top:1320rpx;
+  color:rgb(165, 163, 163);
+}
+.renci3{
+  position:absolute;
+  left:600rpx;
+  top:1320rpx;
+}

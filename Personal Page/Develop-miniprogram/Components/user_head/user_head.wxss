@@ -1,0 +1,9 @@
+/* Components/user_head/user_head.wxss */
+.user_head_text_box{
+    display: flex;
+    background-color: white;
+    border-style: dashed;
+    border-left: 0;
+    border-right: 0;
+    padding: 10rpx;
+}

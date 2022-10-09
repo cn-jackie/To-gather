@@ -1,0 +1,12 @@
+/* Components/togglebar.wxss */
+.toggle_bar{
+    background-color: rgb(45, 136, 255);
+    display: flex;
+    padding: 10rpx;
+    align-items: center;
+}
+
+.back_icon{
+    flex:10%;
+    display:flex;
+}

@@ -1,0 +1,75 @@
+
+<view>
+<image class="frame" style="width:739rpx;height:200rpx" src="../../picture/fram.png"></image>
+<text class ="yonghu2">北京邮电大学</text>
+<input class="geqian" placeholder="这是我的个性签名啦" focus="{{focus}}"/>
+</view>
+<!--diyogekuang-->
+<view class="container">
+  <view class="userinfo">
+    <button wx:if="{{!hasUserInfo && canIUse}}" open-type="getUserInfo" bindgetuserinfo="getUserInfo" class="fund"> 获取头像昵称 </button>
+    <block wx:else>
+      <image bindtap="bindViewTap" class="userinfo-avatar" src="{{userInfo.avatarUrl}}" mode="cover"></image>
+      <text class="userinfo-nickname">{{userInfo.nickName}}</text>
+    </block>
+  </view>
+  <view class="usermotto">
+    <text class="user-motto">{{motto}}</text>
+  </view>
+</view>
+
+ 
+
+ <!--第二个框-->
+ <view>
+ <image class="frame2" style="width:739rpx;height:720rpx" src="../../picture/fram.png"></image>
+ <text class="name">一起学习啦！</text>
+ <text class="time">发布于 2020-2-24</text>
+ <textarea class="intro" placeholder="在这里写上你的活动介绍吧~ (1)大家一起学习学习效率高 (2)互相监督学习更认真"></textarea> 
+ </view>
+
+<!--轮播图-->
+<view class="change">
+<swiper class="home-swiper" indicator-dots="true" autoplay="{{autoplay}}" interval="{{interval}}" duration="{{duration}}" circular="true">
+    <block wx:for-items="{{lunboData}}">
+      <swiper-item>
+        <image src="{{item.imgurl}}" class="slide-image" />
+      </swiper-item>
+    </block>
+  </swiper>
+</view>
+  
+  <!--第三个框-->
+  <view>
+ <image class="frame3" style="width:739rpx;height:430rpx" src="../../picture/fram.png"></image>
+  <text class="start">开始</text>
+  <text class="starttime">X年X月X日</text>
+  <text class="end">结束</text>
+  <text class="endtime">X年X月X日</text>
+  <image class="time3" style="width:55rpx;height:55rpx" src="../../picture/time3.png"></image>
+  <text class="timeContainer1">报名时间截止至：</text>
+  <text class="timeContainer2">X年X月X日</text>
+  <image class="locate2" style="width:55rpx;height:55rpx" src="../../picture/locate2.png"></image>
+   <text class="locateContainer1">活动地点：</text>
+  <text class="locateContainer2">北京市昌平区北京邮电大学</text>
+  </view>
+<!--假装是分割线-->
+<image class="diveLine" style="width:739rpx;height:200rpx" src="../../picture/hengxian2.png"></image>
+<image class="diveLine2" style="width:739rpx;height:200rpx" src="../../picture/hengxian2.png"></image>
+<image class="diveLine3" style="width:739rpx;height:200rpx" src="../../picture/hengxian2.png"></image>
+<image class="diveLine4" style="width:50rpx;height:158rpx" src="../../picture/line.png"></image>
+  <!--下面一堆小标签-->
+<text class="titles114">学习</text>
+<text class="titles124">自律</text>
+<text class="titles134">线下</text>
+<text class="titles144">北邮</text>
+
+<!--小队成员-->
+<image class="frame4" style="width:739rpx;height:180rpx" src="../../picture/fram.png"></image>
+<text class="member">小队成员</text>
+<image class="jia" style="width:100rpx;height:100rpx" src="../../picture/jia.png"></image>
+
+<!--评论区-->
+<image class="frame5" style="width:739rpx;height:500rpx" src="../../picture/fram.png"></image>
+<text class="comment">所有评论</text>
+<image class="diveLine5" style="width:739rpx;height:200rpx" src="../../picture/hengxian2.png"></image>

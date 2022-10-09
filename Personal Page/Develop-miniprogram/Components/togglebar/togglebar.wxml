@@ -1,0 +1,5 @@
+<view class="toggle_bar">
+  <navigator url="../../pages/index/index">
+      <image class="back_icon" src="../../icons/home_white.png" style="width: 60rpx;height: 60rpx"></image>
+  </navigator>
+</view>
